@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Fox News",
+    "url": "https://foxnews.com",
+    "bias_label": "RIGHT"
+  },
+  {
+    "name": "CNN",
+    "url": "https://cnn.com",
+    "bias_label": "LEAN_LEFT"
+  },
+  {
+    "name": "Associated Press",
+    "url": "https://apnews.com",
+    "bias_label": "CENTER"
+  },
+  {
+    "name": "The Guardian",
+    "url": "https://theguardian.com",
+    "bias_label": "LEFT"
+  },
+  {
+    "name": "Wall Street Journal",
+    "url": "https://wsj.com",
+    "bias_label": "LEAN_RIGHT"
+  }
+]
